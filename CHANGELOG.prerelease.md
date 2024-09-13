@@ -1,3 +1,7 @@
+## 8.4.0-alpha.1
+
+- Addon-Interactions: Use ansi-to-html for colored test errors - [#29110](https://github.com/storybookjs/storybook/pull/29110), thanks @kasperpeulen!
+
 ## 8.4.0-alpha.0
 
 

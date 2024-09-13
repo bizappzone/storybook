@@ -1,1 +1,1 @@
-{"version":"8.4.0-alpha.0","info":{"plain":""}}
+{"version":"8.4.0-alpha.1","info":{"plain":"- Addon-Interactions: Use ansi-to-html for colored test errors - [#29110](https://github.com/storybookjs/storybook/pull/29110), thanks @kasperpeulen!"}}
